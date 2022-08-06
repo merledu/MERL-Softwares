@@ -28,4 +28,4 @@ $python3 launcher.py
 ```
 # Caution
 If you run this application please activate the virtual environment as mentioned in  **3<sup>rd</sup>** instruction in your terminal.
-
+nn
