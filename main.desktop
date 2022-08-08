@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Type=Application
-Version=1.0
-Name=Lib Analyzer
-Exec=python3 /home/mohsin-siddiqui/Desktop/Lib-Analyzer/launcher.py
-Path=/home/mohsin-siddiqui/Desktop/Lib-Analyzer
-X-Icon-Path=/home/mohsin-siddiqui/Desktop/Lib-Analyzer/splash.png
-Icon=/home/mohsin-siddiqui/Desktop/Lib-Analyzer/splash.png
